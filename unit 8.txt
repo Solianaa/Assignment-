@@ -1,0 +1,19 @@
+﻿True or false
+
+1.false
+2.true
+3.false
+4.false
+
+Short answer 
+1.what is XML?
+  - XML (eXtensible Markup Language) is a flexible markup language used for storing and transporting structured data. It allows users to define their own tags and structure data in a hierarchical format.
+
+2.advantage  of XML?
+   One advantage of XML is its flexibility in defining custom tags and structures, making it suitable for a wide range of data representation needs. It is also platform-independent, which allows data to be shared across different systems.
+
+3. Explain low-level design?
+ *LLD focuses on the detailed design of system components, including data structures, algorithms, and interactions. It involves creating detailed specifications and designs for individual modules and classes based on the high-level architecture.
+
+4. Explain how to identify a class?
+   *to identify a class, you analyze the requirements and responsibilities of the system to find entities that have distinct attributes and behaviors. A class typically represents a real-world object or concept and is defined by its properties (attributes) and methods (behaviors).
